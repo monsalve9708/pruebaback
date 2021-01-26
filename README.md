@@ -86,4 +86,3 @@ Se consume con la url anterior enviado en el body un json como este
 
 }  
 
-En el archivo adjuntare los archivos postman
